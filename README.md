@@ -1,5 +1,5 @@
 # Student Classification Based on Marks
-This project provides classification of studentsa based on marks into the categories Outstanding, Good and Poor.
+This project provides classification of students based on marks into the categories Outstanding, Good and Poor.
 This application implemented in Python:3.10 on Windows 10.
 Steps to use Application:
 1. Download the WindowsAppEXE directory
